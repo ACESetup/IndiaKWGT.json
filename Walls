@@ -1,32 +1,38 @@
 [
     {
-  "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/Argentina%20Logo%201.png?token=GHSAT0AAAAAABWUX4A3JSAGI6MGOOW4PD4WYXGSFEA",
-  "name": "Argentina Logo 1",
+  "url": "https://raw.githubusercontent.com/ACESetup/IndiaKWGT.json/main/Har%20Ghar%20Tiranga%201.png",
+  "name": "India",
   "author": "Don7TK",
-  "collections": "Team Emblem"
+  "collections": "Independence Day"
  },
  {
-  "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/Argentina%20Logo%202.png?token=GHSAT0AAAAAABWUX4A34MTZB7FO5VCKAAZEYXGSGMQ",
-  "name": "Argentina Logo 2",
+  "url": "https://raw.githubusercontent.com/ACESetup/IndiaKWGT.json/main/Har%20Ghar%20Tiranga.png",
+  "name": "India",
   "author": "Don7TK",
-  "collections": "Team Emblem"
+  "collections": "Independence Day"
  },
  {
-  "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/Argentina%20Logo%203.png?token=GHSAT0AAAAAABWUX4A2QPX5TO77JETLNDZ2YXGSG5A",
-  "name": "Argentina Logo 3",
-  "author": "Don7TK",
-  "collections": "Team Emblem"
+  "url": "https://raw.githubusercontent.com/ACESetup/IndiaKWGT.json/main/Tri%20Colors%20India.png",
+  "name": "India",
+  "author": "Sikandar Ali - Unsplash",
+  "collections": "Independence Day"
  },
  {
-  "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/Argentina%20Logo%204.png?token=GHSAT0AAAAAABWUX4A22SIXUWGCVA3JXDMQYXGSHGA",
-  "name": "Argentina Logo 4",
-  "author": "Don7TK",
-  "collections": "Team Emblem"
+  "url": "https://raw.githubusercontent.com/ACESetup/IndiaKWGT.json/main/prchi-palwe-Sr-dbIWbap8-unsplash.jpg",
+  "name": "India",
+  "author": "Prachi Palwe - Unsplash",
+  "collections": "Independence Day"
  },
  {
-  "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/Argentina%20Logo%205.png?token=GHSAT0AAAAAABWUX4A2Q5VK4QQOE5DIFZRSYXGSHOA",
-  "name": "Argentina Logo 5",
+  "url": "https://raw.githubusercontent.com/ACESetup/IndiaKWGT.json/main/हर%20घर%20त_िरंगा%202%20wall.png",
+  "name": "India",
   "author": "Don7TK",
-  "collections": "Team Emblem"
+  "collections": "Independence Day"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/IndiaKWGT.json/main/हर%20घर%20त_िरंगा%20wall.png",
+  "name": "India",
+  "author": "Don7TK",
+  "collections": "Independence Day"
  }
  ]
