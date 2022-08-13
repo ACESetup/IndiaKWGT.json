@@ -34,5 +34,17 @@
   "name": "India",
   "author": "Don7TK",
   "collections": "Independence Day"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/IndiaKWGT.json/main/Flg.png",
+  "name": "India",
+  "author": "Ashish (Haven Craft)",
+  "collections": "Independence Day"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/IndiaKWGT.json/main/Ind_hc.png",
+  "name": "India",
+  "author": "Ashish (Haven Craft)",
+  "collections": "Independence Day"
  }
  ]
